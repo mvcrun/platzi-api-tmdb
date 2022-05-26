@@ -1,0 +1,19 @@
+{
+  "name": "platzi-api-tmdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvcrun/platzi-api-tmdb.git"
+  },
+  "author": "Pablo Humberto Arriola Agudelo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mvcrun/platzi-api-tmdb/issues"
+  },
+  "homepage": "https://github.com/mvcrun/platzi-api-tmdb#readme"
+}
